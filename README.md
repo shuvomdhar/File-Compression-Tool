@@ -17,7 +17,7 @@ A Python implementation of file compression using Huffman encoding algorithm. Th
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/huffman-compression-tool.git
+git clone https://github.com/shuvomdhar/File-Compression-Tool.git
 cd huffman-compression-tool
 ```
 
